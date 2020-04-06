@@ -1838,3 +1838,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.06-13.27.32:362][367]UATHelper: パッケージ化 (Windows (32-bit)): ********** ARCHIVE COMMAND COMPLETED **********
 [2020.04.06-13.27.32:362][367]UATHelper: パッケージ化 (Windows (32-bit)): BUILD SUCCESSFUL
 [2020.04.06-13.27.32:362][367]UATHelper: パッケージ化 (Windows (32-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2020.04.06-13.36.23:780][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.04.06-13.36.23:905][187]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/proto56DD6ADE474BA583A3B0CBBC0B892497.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
+[2020.04.06-13.36.23:943][187]AssetCheck: New page: Asset Save: proto
+[2020.04.06-13.36.23:943][187]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
+[2020.04.06-13.36.29:378][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.06-13.36.29:494][509]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/protoD55D06B5484FEFD0412B008969C14D13.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
+[2020.04.06-13.36.29:533][509]AssetCheck: New page: Asset Save: proto
+[2020.04.06-13.36.29:533][509]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
