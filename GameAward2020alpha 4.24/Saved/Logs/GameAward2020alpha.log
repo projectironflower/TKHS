@@ -1453,3 +1453,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.06-13.18.39:866][209]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/proto7F0DE6254FEB54445DF0958481C6B474.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
 [2020.04.06-13.18.39:903][209]AssetCheck: New page: Asset Save: proto
 [2020.04.06-13.18.39:903][209]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
+[2020.04.06-13.20.06:131][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.06-13.20.07:235][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.04.06-13.20.07:988][988]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2020.04.06-13.20.09:309][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.04.06-13.20.09:427][ 62]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/protoCF69DCC34E111BC2879D8F90C74DE545.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
+[2020.04.06-13.20.09:465][ 62]AssetCheck: New page: Asset Save: proto
+[2020.04.06-13.20.09:465][ 62]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
