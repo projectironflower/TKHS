@@ -1436,3 +1436,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.06-13.15.13:799][224]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/proto7CD7F096408CACE8D325C495E30F3850.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
 [2020.04.06-13.15.13:843][224]AssetCheck: New page: Asset Save: proto
 [2020.04.06-13.15.13:843][224]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
+[2020.04.06-13.18.33:289][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.04.06-13.18.33:405][978]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/protoA17ADF1047891805E4F082AF3A1714F6.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
+[2020.04.06-13.18.33:443][978]AssetCheck: New page: Asset Save: proto
+[2020.04.06-13.18.33:443][978]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
+[2020.04.06-13.18.33:630][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.04.06-13.18.33:745][987]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/protoDA4E8DC0436145FB9A8B09AD4434B5DC.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
+[2020.04.06-13.18.33:784][987]AssetCheck: New page: Asset Save: proto
+[2020.04.06-13.18.33:784][987]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
+[2020.04.06-13.18.34:006][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.04.06-13.18.34:120][998]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/proto3CEE1BCD45CB453A509C319D09FA633D.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
+[2020.04.06-13.18.34:157][998]AssetCheck: New page: Asset Save: proto
+[2020.04.06-13.18.34:157][998]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
+[2020.04.06-13.18.37:569][ 82]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2020.04.06-13.18.39:751][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.06-13.18.39:866][209]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/proto7F0DE6254FEB54445DF0958481C6B474.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
+[2020.04.06-13.18.39:903][209]AssetCheck: New page: Asset Save: proto
+[2020.04.06-13.18.39:903][209]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
