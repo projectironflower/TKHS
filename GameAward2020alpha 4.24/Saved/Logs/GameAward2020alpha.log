@@ -1460,3 +1460,381 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.06-13.20.09:427][ 62]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/protoCF69DCC34E111BC2879D8F90C74DE545.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
 [2020.04.06-13.20.09:465][ 62]AssetCheck: New page: Asset Save: proto
 [2020.04.06-13.20.09:465][ 62]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
+[2020.04.06-13.23.07:351][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.06-13.23.07:475][831]LogSavePackage: Moving '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Saved/proto565863BD42770F5EE648FCB1A0FE77FF.tmp' to '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap'
+[2020.04.06-13.23.07:514][831]AssetCheck: New page: Asset Save: proto
+[2020.04.06-13.23.07:514][831]LogContentValidation: Display: Validating World /Game/Content/Level/proto.proto
+[2020.04.06-13.26.32:542][215]LogSlate: Window 'プロジェクト設定' being destroyed
+[2020.04.06-13.26.32:545][215]LogSlate: Window 'プロジェクト設定' being destroyed
+[2020.04.06-13.26.42:815][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.06-13.27.00:242][813]UATHelper: パッケージ化 (Windows (32-bit)): Running AutomationTool...
+[2020.04.06-13.27.00:374][819]UATHelper: パッケージ化 (Windows (32-bit)): Parsing command line: -ScriptsForProject="C:/Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/GameAward2020alpha.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/GameAward2020alpha.uproject" -cook -stage -archive -archivedirectory=C:/Users/mo_gu/Desktop/var.01.1 -package -ue4exe="C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -distribution -nodebuginfo -targetplatform=Win32 -clientconfig=Shipping -utf8output
+[2020.04.06-13.27.00:689][836]UATHelper: パッケージ化 (Windows (32-bit)): Setting up ProjectParams for C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\GameAward2020alpha.uproject
+[2020.04.06-13.27.00:970][851]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2020.04.06-13.27.00:970][851]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2020.04.06-13.27.00:971][851]LogSlate: Took 0.001343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.06-13.27.01:079][858]UATHelper: パッケージ化 (Windows (32-bit)): ********** COOK COMMAND STARTED **********
+[2020.04.06-13.27.01:079][858]UATHelper: パッケージ化 (Windows (32-bit)): Running UE4Editor Cook for project C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\GameAward2020alpha.uproject
+[2020.04.06-13.27.01:079][858]UATHelper: パッケージ化 (Windows (32-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.04.06-22.27.01.txt
+[2020.04.06-13.27.01:097][859]UATHelper: パッケージ化 (Windows (32-bit)): Running: C:\Program Files\Epic Games\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\GameAward2020alpha.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.24\Engine\Programs\AutomationTool\Saved\Cook-2020.04.06-22.27.01.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.04.06-13.27.01:214][866]UATHelper: パッケージ化 (Windows (32-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.04.06-13.27.01:214][866]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: Running engine for game: GameAward2020alpha
+[2020.04.06-13.27.02:083][918]UATHelper: パッケージ化 (Windows (32-bit)):   LogHAL: Display: Platform has ~ 16 GB [16983629824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.06-13.27.02:599][949]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.06-13.27.02:630][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.06-13.27.02:631][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.06-13.27.02:631][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.06-13.27.02:631][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.06-13.27.02:631][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.06-13.27.02:631][951]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.06-13.27.02:646][952]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.06-13.27.02:646][952]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.06-13.27.02:663][953]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.06-13.27.02:663][953]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.06-13.27.02:663][953]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.06-13.27.02:680][954]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.06-13.27.02:680][954]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.06-13.27.02:696][955]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.06-13.27.02:713][956]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.06-13.27.02:713][956]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.06-13.27.02:730][957]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.06-13.27.02:730][957]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.06-13.27.02:748][958]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.06-13.27.02:748][958]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.06-13.27.02:748][958]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.06-13.27.02:762][959]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.06-13.27.02:762][959]UATHelper: パッケージ化 (Windows (32-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.04.06-13.27.02:762][959]UATHelper: パッケージ化 (Windows (32-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.06-13.27.02:795][961]UATHelper: パッケージ化 (Windows (32-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.06-13.27.03:197][985]UATHelper: パッケージ化 (Windows (32-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.06-13.27.03:263][989]UATHelper: パッケージ化 (Windows (32-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mo_gu/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.06-13.27.03:280][990]UATHelper: パッケージ化 (Windows (32-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.06-13.27.04:030][ 35]UATHelper: パッケージ化 (Windows (32-bit)):   LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.06-13.27.04:030][ 35]UATHelper: パッケージ化 (Windows (32-bit)):   LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.06-13.27.04:063][ 37]UATHelper: パッケージ化 (Windows (32-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.06-13.27.04:063][ 37]UATHelper: パッケージ化 (Windows (32-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.06-13.27.04:431][ 59]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.06-13.27.04:431][ 59]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Mobile HDR setting 1
+[2020.04.06-13.27.04:431][ 59]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Creating asset registry
+[2020.04.06-13.27.11:698][160]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Discovering localized assets
+[2020.04.06-13.27.11:698][160]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.04.06-13.27.11:698][160]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.04.06-13.27.11:748][163]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Sandbox cleanup took 0.047 seconds for platforms WindowsNoEditor  iterative false
+[2020.04.06-13.27.12:731][222]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 508 Total 508
+[2020.04.06-13.27.13:033][240]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 507 Total 557
+[2020.04.06-13.27.13:570][272]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 506 Total 606
+[2020.04.06-13.27.13:616][275]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap' failed to load '/Game/Content/Level/proto_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.13:616][275]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap' failed to load '/Game/Content/Level/proto_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.13:650][277]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap' failed to load '/Game/Content/Level/proto_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.13:650][277]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap' failed to load '/Game/Content/Level/proto_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.13:666][278]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/Content/Level/proto_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.13:666][278]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/Content/Level/proto_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.13:666][278]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/Content/Level/proto_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.13:666][278]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/Content/Level/proto_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.13:684][279]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap' failed to load '/Game/Content/Level/proto_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.13:684][279]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap' failed to load '/Game/Content/Level/proto_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.14:937][315]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 512 Total 662
+[2020.04.06-13.27.15:273][316]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 200 Packages Remain 511 Total 711
+[2020.04.06-13.27.15:945][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 239 Packages Remain 510 Total 749
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 239 Packages Remain 366 Total 605
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 245 Packages Remain 365 Total 610
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 253 Packages Remain 364 Total 617
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 258 Packages Remain 363 Total 621
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/StarterMap.umap' failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/StarterMap.umap' failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/StarterMap.umap' failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/StarterMap.umap' failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/StarterMap_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/StarterMap_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/StarterMap_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/StarterMap_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/StarterMap.umap' failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.15:946][318]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/StarterMap.umap' failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.16:622][320]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 285 Packages Remain 365 Total 650
+[2020.04.06-13.27.16:622][320]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.16:622][320]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.16:622][320]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.16:622][320]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.16:962][321]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/Minimal_Default_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.16:962][321]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/Minimal_Default_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.16:962][321]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/Minimal_Default_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.16:962][321]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/Minimal_Default_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.16:962][321]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.16:962][321]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.17:631][323]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 335 Packages Remain 367 Total 702
+[2020.04.06-13.27.17:965][324]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap' failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.17:965][324]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap' failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.17:965][324]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap' failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.17:965][324]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap' failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.17:965][324]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap' failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.17:965][324]UATHelper: パッケージ化 (Windows (32-bit)):   LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap' failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.18:632][326]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 385 Packages Remain 367 Total 752
+[2020.04.06-13.27.19:029][327]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 435 Packages Remain 350 Total 785
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 473 Packages Remain 349 Total 822
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 473 Packages Remain 343 Total 816
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 473 Packages Remain 310 Total 783
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 473 Packages Remain 309 Total 782
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 473 Packages Remain 286 Total 759
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 479 Packages Remain 285 Total 764
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 482 Packages Remain 271 Total 753
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 483 Packages Remain 270 Total 753
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 484 Packages Remain 269 Total 753
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 485 Packages Remain 268 Total 753
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 486 Packages Remain 267 Total 753
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 487 Packages Remain 266 Total 753
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 488 Packages Remain 265 Total 753
+[2020.04.06-13.27.19:347][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 489 Packages Remain 264 Total 753
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 490 Packages Remain 263 Total 753
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 491 Packages Remain 260 Total 751
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 492 Packages Remain 259 Total 751
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 493 Packages Remain 258 Total 751
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 494 Packages Remain 257 Total 751
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 495 Packages Remain 256 Total 751
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 496 Packages Remain 255 Total 751
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 497 Packages Remain 253 Total 750
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 498 Packages Remain 249 Total 747
+[2020.04.06-13.27.19:348][328]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 499 Packages Remain 247 Total 746
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 500 Packages Remain 246 Total 746
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 501 Packages Remain 243 Total 744
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 502 Packages Remain 241 Total 743
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 503 Packages Remain 237 Total 740
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 504 Packages Remain 236 Total 740
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 505 Packages Remain 235 Total 740
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 506 Packages Remain 232 Total 738
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 507 Packages Remain 227 Total 734
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 508 Packages Remain 226 Total 734
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 509 Packages Remain 223 Total 732
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 510 Packages Remain 219 Total 729
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 511 Packages Remain 216 Total 727
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 512 Packages Remain 214 Total 726
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 513 Packages Remain 212 Total 725
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 513 Packages Remain 208 Total 721
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 516 Packages Remain 176 Total 692
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 520 Packages Remain 148 Total 668
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 522 Packages Remain 136 Total 658
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 524 Packages Remain 134 Total 658
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 525 Packages Remain 122 Total 647
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 526 Packages Remain 120 Total 646
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 527 Packages Remain 118 Total 645
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 528 Packages Remain 117 Total 645
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 529 Packages Remain 116 Total 645
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 530 Packages Remain 113 Total 643
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 531 Packages Remain 109 Total 640
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 532 Packages Remain 108 Total 640
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 533 Packages Remain 107 Total 640
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 534 Packages Remain 100 Total 634
+[2020.04.06-13.27.19:680][329]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 536 Packages Remain 66 Total 602
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 537 Packages Remain 63 Total 600
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 538 Packages Remain 45 Total 583
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 539 Packages Remain 44 Total 583
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 540 Packages Remain 43 Total 583
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cooked packages 540 Packages Remain 0 Total 540
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Finishing up...
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 536, size is 252.64kb
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Cook by the book total time in tick 7.082840s total time 15.476396
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Peak Used virtual 1006MB Peak Used physical 956MB
+[2020.04.06-13.27.20:013][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:     StartCookByTheBookTime: 8.304s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 7.249s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       CleanSandboxTime: 0.047s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.005s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       CollectFilesToCook: 0.294s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:     TickCookOnTheSide: 7.066s (88)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       LoadPackage: 1.400s (86)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.172s (88)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (88)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       SavingPackages: 5.488s (65)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.001s (561)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 2.131s (549)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:         SaveCookedPackage: 3.316s (540)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:           LoadPackage: 0.001s (540)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:           GEditorSavePackage: 3.288s (540)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:             ConvertingBlueprints: 0.007s (540)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.002s (536)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.012s (540)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (9)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.003s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.036s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.004s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:     SavingAssetRegistry: 0.033s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       BuildChunkManifest: 0.009s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       SaveManifests: 0.003s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.018s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.003s (1)
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCook: Display: Done!
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogSavePackage: Display: Took 0.008389s to verify the EDL loading graph.
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: ===============
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000177
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Package.Load
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=241
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.800245
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Package.Save
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=540
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=3.228374
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.269514
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.080024
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.002081
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.003895
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000565
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.173803
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.283199
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=1.292781
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     MBWritten=705.587960
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:
+[2020.04.06-13.27.20:014][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Cook Profile
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: ============
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=18.779182
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=3.283686
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=15.495057
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=8.304450
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000216
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=7.169398
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.402587
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=3.315946
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=2.301973
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.020343
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000047
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000018
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000250
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000004
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: =================
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: TotalGetHits    =      1537
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: TotalGets       =      1537
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.119063
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.880937
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: TotalPutHits    =         0
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: TotalPuts       =         0
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display:
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             2.83                   0.00             0        473.92
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.54                   0.54             0         13.62
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.33                   0.33             0        124.70
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.23                   0.23             0         47.15
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.12                   0.12             0         75.88
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: NavCollision                                    0.03                   0.03             0          0.16
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.02                   0.02             0          2.77
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          5.49
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          2.93
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display:
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: -----------------------------------
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap' failed to load '/Game/Content/Level/proto_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning:  '/Game/Content/Level/proto_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/StarterMap.umap' failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/StarterMap_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning:  '/Game/StarterContent/Maps/Minimal_Default_BuiltData' のロードに失敗しました: ファイルが見つかりません
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning: While loading '../../../../../../Users/mo_gu/Documents/GitHub/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap' failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': ファイルが見つかりません
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display:
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display: Success - 0 error(s), 36 warning(s)
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   LogInit: Display:
+[2020.04.06-13.27.20:015][330]UATHelper: パッケージ化 (Windows (32-bit)):   
+[2020.04.06-13.27.20:016][330]UATHelper: パッケージ化 (Windows (32-bit)):   Execution of commandlet took:  15.52 seconds
+[2020.04.06-13.27.20:347][331]UATHelper: パッケージ化 (Windows (32-bit)):   LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.06-13.27.23:684][341]UATHelper: パッケージ化 (Windows (32-bit)): Took 22.4333085s to run UE4Editor-Cmd.exe, ExitCode=0
+[2020.04.06-13.27.23:684][341]UATHelper: パッケージ化 (Windows (32-bit)): ********** COOK COMMAND COMPLETED **********
+[2020.04.06-13.27.23:684][341]UATHelper: パッケージ化 (Windows (32-bit)): ********** STAGE COMMAND STARTED **********
+[2020.04.06-13.27.23:684][341]UATHelper: パッケージ化 (Windows (32-bit)): Creating Staging Manifest...
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditor.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditorKeyBindings.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseEditorSettings.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BaseLightmass.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\BasePakFileRules.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\ConsoleVariables.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Category.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Editor.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\EditorTutorials.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Engine.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\Keywords.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\PortableObjectExport.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\PortableObjectImport.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\PropertyNames.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\RepairData.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\ToolTips.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.24\Engine\Config\Localization\WordCount.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Excluding config file C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\Config\DefaultEditor.ini
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Cleaning Stage Directory: C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\Saved\StagedBuilds\WindowsNoEditor
+[2020.04.06-13.27.24:017][342]UATHelper: パッケージ化 (Windows (32-bit)): Creating pak using staging manifest.
+[2020.04.06-13.27.24:349][343]UATHelper: パッケージ化 (Windows (32-bit)): Executing 1 UnrealPak command...
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)): Waiting for child processes to complete (1/1)
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)): Output from: "C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\GameAward2020alpha.uproject" "C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\Saved\StagedBuilds\WindowsNoEditor\GameAward2020alpha\Content\Paks\GameAward2020alpha-WindowsNoEditor.pak" -create="C:\Users\mo_gu\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\PakList_GameAward2020alpha-WindowsNoEditor.txt" -cryptokeys="C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\Saved\Cooked\WindowsNoEditor\GameAward2020alpha\Metadata\Crypto.json" -order="C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\mo_gu\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\UnrealPak-GameAward2020alpha-WindowsNoEditor-2020.04.06-22.27.24.txt"
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Loading response file C:\Users\mo_gu\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.24\PakList_GameAward2020alpha-WindowsNoEditor.txt
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Added 2252 entries to add to pak file.
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Loading pak order file C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Collected 2252 files in 0.01s.
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Creating pak C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\Saved\StagedBuilds\WindowsNoEditor\GameAward2020alpha\Content\Paks\GameAward2020alpha-WindowsNoEditor.pak.
+[2020.04.06-13.27.29:028][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.06-13.27.29:029][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Added 2252 files, 759366372 bytes total, time 3.49s.
+[2020.04.06-13.27.29:029][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2020.04.06-13.27.29:029][357]UATHelper: パッケージ化 (Windows (32-bit)):   LogPakFile: Display: Unreal pak executed in 3.883424 seconds
+[2020.04.06-13.27.29:029][357]UATHelper: パッケージ化 (Windows (32-bit)): UnrealPak terminated with exit code 0
+[2020.04.06-13.27.29:029][357]UATHelper: パッケージ化 (Windows (32-bit)): Copying NonUFSFiles to staging directory: C:\Users\mo_gu\Documents\GitHub\TKHS\GameAward2020alpha 4.24\Saved\StagedBuilds\WindowsNoEditor
+[2020.04.06-13.27.30:027][360]UATHelper: パッケージ化 (Windows (32-bit)): ********** STAGE COMMAND COMPLETED **********
+[2020.04.06-13.27.30:027][360]UATHelper: パッケージ化 (Windows (32-bit)): ********** PACKAGE COMMAND STARTED **********
+[2020.04.06-13.27.30:027][360]UATHelper: パッケージ化 (Windows (32-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2020.04.06-13.27.30:027][360]UATHelper: パッケージ化 (Windows (32-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2020.04.06-13.27.30:027][360]UATHelper: パッケージ化 (Windows (32-bit)): Archiving to C:/Users/mo_gu/Desktop/var.01.1
+[2020.04.06-13.27.32:362][367]UATHelper: パッケージ化 (Windows (32-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2020.04.06-13.27.32:362][367]UATHelper: パッケージ化 (Windows (32-bit)): BUILD SUCCESSFUL
+[2020.04.06-13.27.32:362][367]UATHelper: パッケージ化 (Windows (32-bit)): AutomationTool exiting with ExitCode=0 (Success)
