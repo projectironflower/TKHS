@@ -208,62 +208,56 @@
 "../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Particle/cold.uasset" 207
 "../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Blueprint/Player/Player_BP.uasset" 208
 "../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Blueprint/GameMode_BP.uasset" 209
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/ice_tex.uasset" 210
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/ice_tex_Mat.uasset" 211
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/rock.uasset" 212
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/Torch_tex.uasset" 213
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/Torch_tex_Mat.uasset" 214
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Torch1.uasset" 215
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/ice_tex.uasset" 210
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/ice_tex_Mat.uasset" 211
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/rock.uasset" 212
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Torch_tex.uasset" 213
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Torch_tex_Mat.uasset" 214
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/Torch1.uasset" 215
 "../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Blueprint/Goal_BP.uasset" 216
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 217
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/81nOyc-cOYL__AC_SX466_.uasset" 218
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/81nOyc-cOYL__AC_SX466__Mat.uasset" 219
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/IMG_1681.uasset" 220
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/IMG_1681_Mat.uasset" 221
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/Jump.uasset" 222
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/Jump_Mat.uasset" 223
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/frozen.uasset" 224
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/Material_001.uasset" 225
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/yuka.uasset" 226
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/yuka_Mat.uasset" 227
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 228
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 229
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 230
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_RockMesh_M.uasset" 231
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_RockMesh_N.uasset" 232
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Rock.uasset" 233
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/01.uasset" 234
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/UI/Stage01.uasset" 235
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M_Low.uasset" 236
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N_Low.uasset" 237
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial_Low.uasset" 238
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/back.uasset" 239
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/banana_tex.uasset" 240
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/banana_tex_Mat.uasset" 241
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/banana.uasset" 242
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/Cake_tex.uasset" 243
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/Cake_tex_Mat.uasset" 244
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/cake2.uasset" 245
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/carrto_tex.uasset" 246
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/carrto_tex_Mat.uasset" 247
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/carrot3.uasset" 248
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/EggBox_tex.uasset" 249
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/EggBox_tex_Mat.uasset" 250
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/eggbox2.uasset" 251
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Material_001.uasset" 252
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/men.uasset" 253
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/monster_tex.uasset" 254
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/monster_tex_Mat.uasset" 255
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/monster.uasset" 256
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/onuon_tex.uasset" 257
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/onuon_tex_Mat.uasset" 258
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/onion2.uasset" 259
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/yogurut_tex.uasset" 260
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/tex_mat/yogurut_tex_Mat.uasset" 261
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/yogurt_Cylinder007.uasset" 262
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/UI1_1.uasset" 263
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/UI1_2.uasset" 264
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/UI/UI.uasset" 265
-"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap" 266
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 267
-"../../../Engine/Content/Maps/Entry.umap" 268
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto_BuiltData.uasset" 217
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 218
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/81nOyc-cOYL__AC_SX466_.uasset" 219
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/81nOyc-cOYL__AC_SX466__Mat.uasset" 220
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/IMG_1681.uasset" 221
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/IMG_1681_Mat.uasset" 222
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Jump.uasset" 223
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Jump_Mat.uasset" 224
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/frozen.uasset" 225
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Material_001.uasset" 226
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/yuka.uasset" 227
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/yuka_Mat.uasset" 228
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/01.uasset" 229
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/UI/Stage01.uasset" 230
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M_Low.uasset" 231
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N_Low.uasset" 232
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial_Low.uasset" 233
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/back.uasset" 234
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/banana_tex.uasset" 235
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/banana_tex_Mat.uasset" 236
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/banana.uasset" 237
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Cake_tex.uasset" 238
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Cake_tex_Mat.uasset" 239
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/cake2.uasset" 240
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/carrto_tex.uasset" 241
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/carrto_tex_Mat.uasset" 242
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/carrot3.uasset" 243
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/EggBox_tex.uasset" 244
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/EggBox_tex_Mat.uasset" 245
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/eggbox2.uasset" 246
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/men.uasset" 247
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/monster_tex.uasset" 248
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/monster_tex_Mat.uasset" 249
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/monster.uasset" 250
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/onuon2_tex.uasset" 251
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/onuon2_tex_Mat.uasset" 252
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/onion.uasset" 253
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/yogurut_tex.uasset" 254
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/yogurut_tex_Mat.uasset" 255
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/yogurt_Cylinder007.uasset" 256
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/UI1_1.uasset" 257
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/UI1_2.uasset" 258
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/UI/UI.uasset" 259
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Level/proto.umap" 260
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 261
+"../../../Engine/Content/Maps/Entry.umap" 262
