@@ -1,541 +1,571 @@
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 0
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/3_StaticMesh.uasset" 4
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/Prot_yuka01.uasset" 5
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/9_StaticMesh.uasset" 6
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/eggtex.uasset" 7
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/eggtex_Mat.uasset" 8
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/egg.uasset" 9
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk_Skeleton.uasset" 10
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk_Anim.uasset" 11
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 12
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 13
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 14
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Particle/Steam.uasset" 15
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Sound/JGA2020_amateur_thema.uasset" 16
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Sound/thema.uasset" 17
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Basic_Wall.uasset" 18
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Pillar_50x500.uasset" 19
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_400x300.uasset" 20
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_400x400.uasset" 21
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_500x500.uasset" 22
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 23
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 24
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Collapse01.uasset" 25
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Collapse02.uasset" 26
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Explosion01.uasset" 27
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Explosion02.uasset" 28
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Fire01.uasset" 29
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Fire_Sparks01.uasset" 30
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Light01.uasset" 31
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Light01_Cue.uasset" 32
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Light02.uasset" 33
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Light02_Cue.uasset" 34
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Smoke01.uasset" 35
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Birds01.uasset" 36
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Music01.uasset" 37
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Wind05.uasset" 38
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Wind06.uasset" 39
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Steam01.uasset" 40
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Explosion_Cue.uasset" 41
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Burst_M.uasset" 42
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Burst.uasset" 43
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 44
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 45
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 46
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 47
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 48
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Explosion.uasset" 49
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 50
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 51
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 52
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Bush_D.uasset" 53
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Bush_N.uasset" 54
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Bush.uasset" 55
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Bush.uasset" 56
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Chair_M.uasset" 57
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Chair_N.uasset" 58
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Chair.uasset" 59
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Couch.uasset" 60
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Glass.uasset" 61
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Door_M.uasset" 62
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Door_N.uasset" 63
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Door.uasset" 64
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Door.uasset" 65
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 66
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 67
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 68
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 69
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 70
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 71
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_RockMesh_M.uasset" 72
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_RockMesh_N.uasset" 73
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Rock.uasset" 74
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Rock.uasset" 75
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Shelf_M.uasset" 76
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Shelf_N.uasset" 77
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Shelf.uasset" 78
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Shelf.uasset" 79
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Basic_Floor.uasset" 80
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Stairs.uasset" 81
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Cone.uasset" 82
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 83
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 84
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Pipe.uasset" 85
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 86
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 87
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Plane.uasset" 88
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Torus.uasset" 89
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Trim.uasset" 90
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 91
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 92
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 93
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Tube.uasset" 94
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 95
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 96
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 97
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 98
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 99
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 100
-"../../../Engine/Content/BasicShapes/Cone.uasset" 101
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 102
-"../../../Engine/Content/BasicShapes/Plane.uasset" 103
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 104
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 105
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 106
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 107
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 108
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 109
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 110
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 111
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 112
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 113
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 114
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 115
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 116
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 117
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 118
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 119
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 120
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 121
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 122
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 123
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 124
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 125
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 126
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 127
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 128
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 129
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 130
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 131
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 132
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 133
-"../../../Engine/Content/EditorResources/S_Note.uasset" 134
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 135
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 136
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 137
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 138
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 139
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 140
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 141
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 142
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 143
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 144
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 145
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 146
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 147
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 148
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 149
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 150
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 151
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 152
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 153
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 154
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 155
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 156
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 157
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 158
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 159
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 160
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 161
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 162
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 163
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 164
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 165
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 166
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 167
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 168
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 169
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 170
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 171
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 172
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 173
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 174
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 175
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 176
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 177
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 178
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 179
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 180
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 181
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 182
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 183
-"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 184
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 185
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 186
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 187
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 188
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 189
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 190
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 191
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 192
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 193
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 194
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 195
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 196
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 197
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 198
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 199
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 200
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 201
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 202
-"../../../Engine/Content/EngineResources/Black.uasset" 203
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 204
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 205
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 206
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 207
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 208
-"../../../Engine/Content/EngineSounds/Master.uasset" 209
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 210
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 211
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 212
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 213
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 214
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 215
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 216
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 217
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 218
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 219
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 220
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 221
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 222
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 223
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 224
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 225
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 226
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 227
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 228
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 229
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 230
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 231
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 232
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 233
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 234
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 235
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 236
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 237
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 238
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 239
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 240
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 241
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 242
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 243
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 244
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 245
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 246
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 247
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 248
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 249
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 250
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 251
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 252
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 253
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 254
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 255
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 256
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 257
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 258
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 259
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 260
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 261
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 262
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 263
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 264
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 265
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 266
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 267
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 268
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 269
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 270
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 271
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/Jumping.uasset" 272
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/player_Idle.uasset" 273
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk2.uasset" 274
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Blueprint/Player/PlayerAnimBlueprint.uasset" 275
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_MacroVariation.uasset" 276
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 277
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 278
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 279
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 280
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Water_N.uasset" 281
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Water_Lake.uasset" 282
-"../../../Engine/Content/BasicShapes/Cube.uasset" 283
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Blueprint/WaterBlock_BP.uasset" 284
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/T_pl92_001_body_D_tga.uasset" 285
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/material_6.uasset" 286
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/material_8.uasset" 287
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/T_pl92_001_eye_D_tga.uasset" 288
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_eye.uasset" 289
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_eyeshadow.uasset" 290
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/T_pl92_001_face_D_tga.uasset" 291
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_face.uasset" 292
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/T_pl92_001_hair_D_tga.uasset" 293
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_hair.uasset" 294
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_horn.uasset" 295
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_neck.uasset" 296
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_skin.uasset" 297
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk_PhysicsAsset.uasset" 298
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk.uasset" 299
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Blueprint/Player/Player_BP.uasset" 300
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Blueprint/GameMode_BP.uasset" 301
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/icemat.uasset" 302
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/DefaultMaterial_0.uasset" 303
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/rock.uasset" 304
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Torch1_lambert1_AlbedoTransparency.uasset" 305
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Torch1_lambert1_AlbedoTransparency_Mat.uasset" 306
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Torch1.uasset" 307
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Blueprint/Goal_BP.uasset" 308
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Level/proto_BuiltData.uasset" 309
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 310
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/81nOyc-cOYL__AC_SX466_.uasset" 311
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/81nOyc-cOYL__AC_SX466__Mat.uasset" 312
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/IMG_1681.uasset" 313
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/IMG_1681_Mat.uasset" 314
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/lata_energetico_lata_energetico_lambert4_R.uasset" 315
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/lata_energetico_lata_energetico_lambert4_R_Mat.uasset" 316
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/yuka.uasset" 317
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/yuka_Mat.uasset" 318
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Texture/UI1_1.uasset" 319
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Texture/UI1_2.uasset" 320
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Blueprint/UI.uasset" 321
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Frigor01_albedo.uasset" 322
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Frigor01_normal.uasset" 323
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Frigor01_specular.uasset" 324
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Frigor01.uasset" 325
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/back.uasset" 326
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Diffuse1.uasset" 327
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Diffuse.uasset" 328
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/banana.uasset" 329
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Cake_tex.uasset" 330
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Cake_tex_Mat.uasset" 331
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Cake.uasset" 332
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/carrto.uasset" 333
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/carrto_Mat.uasset" 334
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/carrot.uasset" 335
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/BoiteOeufs_Diffuse.uasset" 336
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/BoiteOeufs_Diffuse_Mat.uasset" 337
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/eggbox.uasset" 338
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/lata_enregtico_skethfab_polySurface2.uasset" 339
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/onuon.uasset" 340
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/onuon_Mat.uasset" 341
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/onion.uasset" 342
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/uvw_iogurt.uasset" 343
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/uvw_iogurt_Mat.uasset" 344
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/mapMesh/object/yogurt_Cylinder007.uasset" 345
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/Content/Level/proto.umap" 346
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 347
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 348
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 349
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 350
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 351
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 352
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 353
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 354
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 355
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 356
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 357
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 358
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_AssetPlatform.uasset" 359
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 360
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 361
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 362
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 363
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 364
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 365
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 366
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 367
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap" 368
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 369
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 370
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Copper.uasset" 371
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Statue_M.uasset" 372
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Statue_N.uasset" 373
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 374
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Floor_400x400.uasset" 375
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 376
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Chair.uasset" 377
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Statue.uasset" 378
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Statue.uasset" 379
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_TableRound_M.uasset" 380
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_TableRound_N.uasset" 381
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_TableRound.uasset" 382
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_TableRound.uasset" 383
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Maps/Minimal_Default.umap" 384
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Fire01_Cue.uasset" 385
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 386
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 387
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 388
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 389
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 390
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Fire.uasset" 391
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 392
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Smoke01_Cue.uasset" 393
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Smoke.uasset" 394
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 395
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 396
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Spark_Core.uasset" 397
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Spark.uasset" 398
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Sparks.uasset" 399
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 400
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Steam01_Cue.uasset" 401
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Steam_Lit.uasset" 402
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 403
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Lamp_M.uasset" 404
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Lamp_N.uasset" 405
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Lamp.uasset" 406
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 407
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 408
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 409
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 410
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 411
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 412
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 413
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 414
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 415
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 416
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 417
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 418
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 419
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 420
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 421
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 422
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 423
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 424
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 425
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 426
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 427
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 428
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 429
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 430
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 431
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 432
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 433
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 434
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 435
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 436
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 437
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 438
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 439
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 440
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Gradinet_01.uasset" 441
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 442
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 443
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 444
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 445
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 446
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 447
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 448
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 449
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 450
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 451
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 452
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 453
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 454
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 455
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 456
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 457
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 458
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 459
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 460
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 461
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 462
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 463
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Ground_Grass.uasset" 464
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 465
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 466
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 467
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 468
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 469
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Ground_Moss.uasset" 470
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 471
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 472
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Gold.uasset" 473
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 474
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Rust.uasset" 475
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 476
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 477
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Steel.uasset" 478
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 479
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 480
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 481
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 482
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 483
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 484
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 485
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 486
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Rock_Slate.uasset" 487
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 488
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 489
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 490
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 491
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 492
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 493
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 494
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 495
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 496
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 497
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 498
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Tech_Panel.uasset" 499
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Water_M.uasset" 500
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Water_Ocean.uasset" 501
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 502
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 503
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 504
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 505
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 506
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 507
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 508
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 509
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Oak.uasset" 510
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 511
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 512
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Pine.uasset" 513
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 514
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 515
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 516
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_400x200.uasset" 517
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 518
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 519
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Collapse_Cue.uasset" 520
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 521
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 522
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 523
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 524
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/MaterialSphere.uasset" 525
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Frame_M.uasset" 526
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Frame_N.uasset" 527
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Frame.uasset" 528
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_CornerFrame.uasset" 529
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_DoorFrame.uasset" 530
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_GlassWindow.uasset" 531
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_PillarFrame.uasset" 532
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_PillarFrame300.uasset" 533
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_WindowFrame.uasset" 534
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Cube.uasset" 535
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 536
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Sphere.uasset" 537
-"../../../../../../Users/mo_gu/Desktop/gameaward2020-master/gameaward2020-master/GameAward2020alpha 4.24/Content/StarterContent/Maps/StarterMap.umap" 538
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 539
-"../../../Engine/Content/Maps/Entry.umap" 540
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk_Skeleton.uasset" 0
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/Jumping.uasset" 1
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/player_Idle.uasset" 2
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk2.uasset" 3
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Blueprint/Player/PlayerAnimBlueprint.uasset" 4
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 5
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_MacroVariation.uasset" 6
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 7
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 8
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 9
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 10
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Water_N.uasset" 11
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Water_Lake.uasset" 12
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 13
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 14
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 15
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 16
+"../../../Engine/Content/BasicShapes/Cube.uasset" 17
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Blueprint/WaterBlock_BP.uasset" 18
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/T_pl92_001_body_D_tga.uasset" 19
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/material_6.uasset" 20
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/material_8.uasset" 21
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/T_pl92_001_eye_D_tga.uasset" 22
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_eye.uasset" 23
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_eyeshadow.uasset" 24
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/T_pl92_001_face_D_tga.uasset" 25
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_face.uasset" 26
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/T_pl92_001_hair_D_tga.uasset" 27
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_hair.uasset" 28
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_horn.uasset" 29
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_neck.uasset" 30
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/MII_Pl92000_skin.uasset" 31
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk_PhysicsAsset.uasset" 32
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk.uasset" 33
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 34
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 35
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 36
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Particle/cold.uasset" 37
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Blueprint/Player/Player_BP.uasset" 38
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/UI1_1.uasset" 39
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/UI1_2.uasset" 40
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/UI/UI.uasset" 41
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Blueprint/UI.uasset" 42
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/3_StaticMesh.uasset" 43
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/Prot_yuka01.uasset" 44
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/9_StaticMesh.uasset" 45
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/81nOyc-cOYL__AC_SX466__Mat.uasset" 46
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M_Low.uasset" 47
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N_Low.uasset" 48
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial_Low.uasset" 49
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/back.uasset" 50
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/back.uasset" 51
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/banana_tex.uasset" 52
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/banana_tex_Mat.uasset" 53
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/banana.uasset" 54
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/banana.uasset" 55
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Cake_tex.uasset" 56
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Cake_tex_Mat.uasset" 57
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/cake2.uasset" 58
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/cake2.uasset" 59
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/carrto_tex.uasset" 60
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/carrto_tex_Mat.uasset" 61
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/carrot3.uasset" 62
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/carrot3.uasset" 63
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/EggBox_tex.uasset" 64
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/EggBox_tex_Mat.uasset" 65
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/eggbox2.uasset" 66
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/eggbox2.uasset" 67
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/IMG_1681_Mat.uasset" 68
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Material_001.uasset" 69
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/frozen.uasset" 70
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Material_001.uasset" 71
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/men.uasset" 72
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/men.uasset" 73
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/monster_tex.uasset" 74
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/monster_tex_Mat.uasset" 75
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/monster.uasset" 76
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/monster.uasset" 77
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/onuon2_tex.uasset" 78
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/onuon2_tex_Mat.uasset" 79
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/onion.uasset" 80
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/onion.uasset" 81
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/ice_tex.uasset" 82
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/ice_tex_Mat.uasset" 83
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/rock.uasset" 84
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/rock.uasset" 85
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Torch_tex.uasset" 86
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Torch_tex_Mat.uasset" 87
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/Torch1.uasset" 88
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Torch1.uasset" 89
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/yogurut_tex.uasset" 90
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/yogurut_tex_Mat.uasset" 91
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/yogurt_Cylinder007.uasset" 92
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/yogurt_Cylinder007.uasset" 93
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/frozen_Mat.uasset" 94
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Model/player/player_walk_Anim.uasset" 95
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Sound/JGA2020_amateur_thema.uasset" 96
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Sound/thema.uasset" 97
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/stage01.uasset" 98
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Basic_Wall.uasset" 99
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Pillar_50x500.uasset" 100
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_400x300.uasset" 101
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_400x400.uasset" 102
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_500x500.uasset" 103
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 104
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 105
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Collapse01.uasset" 106
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Collapse02.uasset" 107
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Explosion01.uasset" 108
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Explosion02.uasset" 109
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Fire01.uasset" 110
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Fire_Sparks01.uasset" 111
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Light01.uasset" 112
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Light01_Cue.uasset" 113
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Light02.uasset" 114
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Light02_Cue.uasset" 115
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Smoke01.uasset" 116
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Birds01.uasset" 117
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Music01.uasset" 118
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Wind05.uasset" 119
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Wind06.uasset" 120
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Steam01.uasset" 121
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Explosion_Cue.uasset" 122
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Burst_M.uasset" 123
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Burst.uasset" 124
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 125
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 126
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 128
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 129
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Explosion.uasset" 130
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 131
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 132
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 133
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Bush_D.uasset" 134
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Bush_N.uasset" 135
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Bush.uasset" 136
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Bush.uasset" 137
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Chair_M.uasset" 138
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Chair_N.uasset" 139
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Chair.uasset" 140
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Couch.uasset" 141
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Glass.uasset" 142
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Door_M.uasset" 143
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Door_N.uasset" 144
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Door.uasset" 145
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Door.uasset" 146
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 147
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 148
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 149
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 150
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 151
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 152
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_RockMesh_M.uasset" 153
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_RockMesh_N.uasset" 154
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Rock.uasset" 155
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Rock.uasset" 156
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Shelf_M.uasset" 157
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Shelf_N.uasset" 158
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Shelf.uasset" 159
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Shelf.uasset" 160
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Basic_Floor.uasset" 161
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Stairs.uasset" 162
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Cone.uasset" 163
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 164
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 165
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Pipe.uasset" 166
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 167
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 168
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Plane.uasset" 169
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Torus.uasset" 170
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Trim.uasset" 171
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 172
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 173
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 174
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Tube.uasset" 175
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 176
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 177
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 178
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 179
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 180
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 181
+"../../../Engine/Content/BasicShapes/Cone.uasset" 182
+"../../../Engine/Content/BasicShapes/Plane.uasset" 183
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 184
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 185
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 186
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 187
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 188
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 189
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 190
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 191
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 192
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 193
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 194
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 195
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 196
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 197
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 198
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 199
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 200
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 201
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 202
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 203
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 204
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 205
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 206
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 207
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 208
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 209
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 210
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 211
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 212
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 213
+"../../../Engine/Content/EditorResources/S_Note.uasset" 214
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 215
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 216
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 217
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 218
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 219
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 220
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 221
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 222
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 223
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 224
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 225
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 226
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 227
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 228
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 229
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 231
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 232
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 233
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 234
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 235
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 236
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 237
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 238
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 239
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 240
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 241
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 242
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 243
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 244
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 245
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 246
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 247
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 248
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 249
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 250
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 251
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 252
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 253
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 254
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 255
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 256
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 257
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 258
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 259
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 260
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 261
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 262
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 263
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 264
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 265
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 266
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 267
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 268
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 269
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 270
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 271
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 272
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 273
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 274
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 275
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 276
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 277
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 278
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 279
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 280
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 281
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 282
+"../../../Engine/Content/EngineResources/Black.uasset" 283
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 284
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 285
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 286
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 287
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 288
+"../../../Engine/Content/EngineSounds/Master.uasset" 289
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 290
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 291
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 292
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 293
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 294
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 295
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 308
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 312
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 313
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 314
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 315
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 316
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 317
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 318
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 319
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 320
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 321
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 322
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 323
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 324
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 325
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 327
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 328
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 329
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 330
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 331
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 332
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 333
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 334
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 335
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 336
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 337
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 338
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 339
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 340
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 341
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 342
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 343
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 344
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 345
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 346
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 347
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 348
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 349
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 350
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Level/BaseLevel.umap" 351
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Blueprint/GameMode_BP.uasset" 352
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Blueprint/Goal_BP.uasset" 353
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Level/Stage01_BuiltData.uasset" 354
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 355
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/81nOyc-cOYL__AC_SX466_.uasset" 356
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/81nOyc-cOYL__AC_SX466__Mat.uasset" 357
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/IMG_1681.uasset" 358
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/IMG_1681_Mat.uasset" 359
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Jump.uasset" 360
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage01/tex_mat/Jump_Mat.uasset" 361
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/yuka.uasset" 362
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/yuka_Mat.uasset" 363
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Water_M.uasset" 364
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Water_Ocean.uasset" 365
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Texture/01.uasset" 366
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/UI/Stage01.uasset" 367
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 368
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Level/Stage01.umap" 369
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Level/Stage02_BuiltData.uasset" 370
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage02/Smalto.uasset" 371
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage02/base.uasset" 372
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage02/Ferro.uasset" 373
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage02/Manopole.uasset" 374
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage02/ManopoleSurf.uasset" 375
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage02/VetroQuadro.uasset" 376
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/mapMesh/object/Stage02/konro.uasset" 377
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/Content/Level/Stage02.umap" 378
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 379
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 380
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 381
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 382
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 383
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 384
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 385
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 386
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 387
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 388
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 389
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 390
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_AssetPlatform.uasset" 391
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 392
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 393
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 394
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 395
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 396
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 397
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 398
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 399
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Advanced_Lighting.umap" 400
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 401
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 402
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Copper.uasset" 403
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Statue_M.uasset" 404
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Statue_N.uasset" 405
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 406
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Floor_400x400.uasset" 407
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 408
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Chair.uasset" 409
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Statue.uasset" 410
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Statue.uasset" 411
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_TableRound_M.uasset" 412
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_TableRound_N.uasset" 413
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_TableRound.uasset" 414
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_TableRound.uasset" 415
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/Minimal_Default.umap" 416
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Fire01_Cue.uasset" 417
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 418
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 419
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 420
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 421
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 422
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Fire.uasset" 423
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 424
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Smoke01_Cue.uasset" 425
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Smoke.uasset" 426
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 427
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 428
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Spark_Core.uasset" 429
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Spark.uasset" 430
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Sparks.uasset" 431
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 432
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Steam01_Cue.uasset" 433
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Steam_Lit.uasset" 434
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 435
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Lamp_M.uasset" 436
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Lamp_N.uasset" 437
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Lamp.uasset" 438
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 439
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 440
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 441
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 442
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 443
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 444
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 445
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 446
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 447
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 448
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 449
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 450
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 451
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 452
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 453
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 454
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 455
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 456
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 457
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 458
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 459
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 460
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 461
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 462
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 463
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 464
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 465
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 466
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 467
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 468
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 469
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 470
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 471
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 472
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Gradinet_01.uasset" 473
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 474
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 475
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 476
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 477
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 478
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 479
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 480
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 481
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 482
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 483
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 484
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 485
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 486
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 487
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 488
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 489
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 490
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 491
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 492
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 493
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 494
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 495
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Ground_Grass.uasset" 496
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 497
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 498
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 499
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 500
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 501
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Ground_Moss.uasset" 502
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 503
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 504
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Gold.uasset" 505
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 506
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Rust.uasset" 507
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 508
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 509
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Metal_Steel.uasset" 510
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 511
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 512
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 513
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 514
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 515
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 516
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 517
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 518
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Rock_Slate.uasset" 519
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 520
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 521
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 522
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 523
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 524
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 525
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 526
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 527
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 528
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 529
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 530
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Tech_Panel.uasset" 531
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 532
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 533
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 534
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 535
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 536
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 537
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 538
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 539
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Oak.uasset" 540
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 541
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 542
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Pine.uasset" 543
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 544
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 545
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 546
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_400x200.uasset" 547
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 548
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 549
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Collapse_Cue.uasset" 550
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 551
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 552
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 553
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 554
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/MaterialSphere.uasset" 555
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Frame_M.uasset" 556
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Textures/T_Frame_N.uasset" 557
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/Materials/M_Frame.uasset" 558
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_CornerFrame.uasset" 559
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_DoorFrame.uasset" 560
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_GlassWindow.uasset" 561
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_PillarFrame.uasset" 562
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_PillarFrame300.uasset" 563
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Props/SM_WindowFrame.uasset" 564
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Cube.uasset" 565
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 566
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Shapes/Shape_Sphere.uasset" 567
+"../../../../../../Users/mo_gu/Documents/GitHub/SourceTree/TKHS/GameAward2020alpha 4.24/Content/StarterContent/Maps/StarterMap.umap" 568
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 569
+"../../../Engine/Content/Maps/Entry.umap" 570
